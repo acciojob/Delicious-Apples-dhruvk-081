@@ -1,1 +1,26 @@
-/* your code here */
+.product{
+    display: flex;
+}
+
+.photo-album ul{
+    display: flex;
+    list-style: none;
+}
+.price{
+    color: red;
+}
+.price span{
+    font-size: 64px;
+}
+.variant ul{
+    display: flex;
+    list-style: none;
+}
+button{
+    width: 150px;
+    height: 50px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+}
